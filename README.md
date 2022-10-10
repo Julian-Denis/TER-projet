@@ -1,4 +1,4 @@
-# TER-projet np
+# TER-projet Données médicales : interopérabilité et prédic
 
 ## Description
 
